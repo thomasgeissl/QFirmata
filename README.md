@@ -7,6 +7,9 @@ QFirmata is a Qt implementation of the firmata protocol <https://github.com/firm
 This is a quick and dirty port of openframework's (<https://github.com/openframeworks/openFrameworks>) firmata implementation.
 It is a work in progress and will be updated in the near future. The API might undergo some incompatible changes.
 
+Build status
+---
+[![Build Status](https://travis-ci.org/thomasgeissl/QFirmata.svg?branch=master)](https://travis-ci.org/thomasgeissl/QFirmata)
 
 Installation
 ---
