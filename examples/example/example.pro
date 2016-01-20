@@ -10,7 +10,7 @@ QT_MINOR_VERSION = 5
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = QFirmataExample
+TARGET = example
 TEMPLATE = app
 
 
